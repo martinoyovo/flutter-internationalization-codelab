@@ -1,0 +1,9 @@
+{
+  "title": "Note & Review",
+  "@title": {
+    "description": "The title"
+  },
+  "description": "Let us know what you feel about our service.\nYour sharing is valuable for us.",
+  "acceptText": "Start Review",
+  "cancelText": "Cancel"
+}

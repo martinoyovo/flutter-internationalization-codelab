@@ -1,0 +1,9 @@
+{
+  "title": "Noter & Commenter",
+  "@title": {
+    "description": "Le titre"
+  },
+  "description": "Faites-nous savoir ce que vous pensez de notre service.\nVotre opinion nous est précieuse.",
+  "acceptText": "Commençer",
+  "cancelText": "Annuler"
+}
